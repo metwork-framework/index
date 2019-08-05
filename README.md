@@ -8,7 +8,7 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 
 | Module | Description |
 | --- | --- |
-| [mfext](https://github.com/metwork-framework/mfext) | Dependency module which provides plenty of recent opensource softwares |
+| [mfext](https://github.com/metwork-framework/mfext) | Dependency module which provides plenty of recent opensource softwares (you will also find some addons to this module in the following) |
 | [mfcom](https://github.com/metwork-framework/mfcom) | Dependency module which provides some MetWork Framework specific libraries and tools |
 | [mfserv](https://github.com/metwork-framework/mfserv) | Webservices module |
 | [mfdata](https://github.com/metwork-framework/mfdata) | "Incoming files" processing framework |
@@ -22,19 +22,21 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 | --- | --- |
 | [mfextaddon_scientific](https://github.com/metwork-framework/mfextaddon_scientific) | mfext addon for scientific libraries and tools |
 | [mfextaddon_python3_ia](https://github.com/metwork-framework/mfextaddon_python3_ia) | mfext addon for deep learning/IA libraries and tools for Python3 |
-| [mfextaddon_mapserver](https://github.com/metwork-framework/mfextaddon_mapserver) | mfext addon which provide [https://mapserver.org](Mapserver software) and libraries around ([mapserverapi](https://github.com/metwork-framework/mapserverapi)) and [mapserverapi_python](https://github.com/metwork-framework/mapserverapi_python)) 
+| [mfextaddon_mapserver](https://github.com/metwork-framework/mfextaddon_mapserver) | mfext addon which provides [https://mapserver.org](Mapserver software) and libraries around ([mapserverapi](https://github.com/metwork-framework/mapserverapi)) and [mapserverapi_python](https://github.com/metwork-framework/mapserverapi_python)) 
 
-## build docker images
+## docker build images
 
-- [docker-mfext-centos6-buildimage](https://github.com/metwork-framework/docker-mfext-centos6-buildimage)
-- [docker-mfext-centos7-buildimage](https://github.com/metwork-framework/docker-mfext-centos7-buildimage)
-- [docker-mfcom-centos6-buildimage](https://github.com/metwork-framework/docker-mfcom-centos6-buildimage)
-- [docker-mfcom-centos7-buildimage](https://github.com/metwork-framework/docker-mfcom-centos7-buildimage)
-- [docker-mfxxx-centos6-buildimage](https://github.com/metwork-framework/docker-mfxxx-centos6-buildimage)
-- [docker-mfxxx-centos7-buildimage](https://github.com/metwork-framework/docker-mfxxx-centos7-buildimage)
-- [docker-mfservplugins-centos7-buildimage](https://github.com/metwork-framework/docker-mfservplugins-centos7-buildimage)
-- [docker-portable-envtpl-buildimage](https://github.com/metwork-framework/docker-portable-envtpl-buildimage)
-- [docker-mfextaddon_python3_ia-centos7-buildimage](https://github.com/metwork-framework/docker-mfextaddon_python3_ia-centos7-buildimage)
+| Addon | Description |
+| --- | --- |
+| [docker-mfext-centos6-buildimage](https://github.com/metwork-framework/docker-mfext-centos6-buildimage) | the docker image used by CI to build mfext module on centos6 |
+| [docker-mfext-centos7-buildimage](https://github.com/metwork-framework/docker-mfext-centos7-buildimage) | the docker image used by CI to build mfext module on centos7 |
+| [docker-mfcom-centos6-buildimage](https://github.com/metwork-framework/docker-mfcom-centos6-buildimage) | the docker image used by CI to build mfcom module on centos6 |
+| [docker-mfcom-centos7-buildimage](https://github.com/metwork-framework/docker-mfcom-centos7-buildimage) | the docker image used by CI to build mfcom module on centos7 |
+| [docker-mfxxx-centos6-buildimage](https://github.com/metwork-framework/docker-mfxxx-centos6-buildimage) | the docker image used by CI to build mfxxx modules (not mfext/mfcom) module on centos6 |
+| [docker-mfxxx-centos7-buildimage](https://github.com/metwork-framework/docker-mfxxx-centos7-buildimage) | the docker image used by CI to build mfxxx modules (not mfext/mfcom) module on centos7 |
+| [docker-mfservplugins-centos7-buildimage](https://github.com/metwork-framework/docker-mfservplugins-centos7-buildimage) | a docker image used by CI to build some custom mfserv plugins |
+| [docker-portable-envtpl-buildimage](https://github.com/metwork-framework/docker-portable-envtpl-buildimage) | a docker image to build a portable [https://github.com/metwork-framework/envtpl](envtpl) binary |
+| [docker-mfextaddon_python3_ia-centos7-buildimage](https://github.com/metwork-framework/docker-mfextaddon_python3_ia-centos7-buildimage) | a docker image to build [https://github.com/metwork-framework/mfextaddon_python3_ia](python3_ia mfext addon) on centos7 |
 
 ## libs
 
