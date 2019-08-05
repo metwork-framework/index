@@ -52,10 +52,10 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 ## forked (but maintained) repos
 
 - [deploycron](https://github.com/metwork-framework/deploycron)
-- [envtpl]
-- [lua-resty-statsd ]
-- [cookiecutter ]
-- [auto-changelog ]
+- [envtpl](https://github.com/metwork-framework/envtpl)
+- [lua-resty-statsd](https://github.com/metwork-framework/lua-resty-statsd)
+- [cookiecutter](https://github.com/metwork-framework/cookiecutter)
+- [auto-changelog](https://github.com/metwork-framework/auto-changelog)
 
 ## repositories specific to MetWork Framework
 
