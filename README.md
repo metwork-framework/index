@@ -43,6 +43,7 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 - [jsonlog2elasticsearch](https://github.com/metwork-framework/jsonlog2elasticsearch)
 - [circus_autorestart_plugin](https://github.com/metwork-framework/circus_autorestart_plugin)
 - [mfutil_c](https://github.com/metwork-framework/mfutil_c)
+- [mfutil_lua](https://github.com/metwork-framework/mfutil_lua)
 - [aiohttp_github_helpers](https://github.com/metwork-framework/aiohttp_github_helpers)
 - [cronwrapper](https://github.com/metwork-framework/cronwrapper)
 - [telegraf-unixsocket-python-client](https://github.com/metwork-framework/telegraf-unixsocket-python-client)
