@@ -6,19 +6,23 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 
 ## Main modules
 
-- [mfext](https://github.com/metwork-framework/mfext)
-- [mfcom](https://github.com/metwork-framework/mfcom)
-- [mfserv](https://github.com/metwork-framework/mfserv)
-- [mfdata](https://github.com/metwork-framework/mfdata)
-- [mfbase](https://github.com/metwork-framework/mfbase)
-- [mfadmin](https://github.com/metwork-framework/mfadmin)
-- [mfsysmon](https://github.com/metwork-framework/mfsysmon)
+| Module | Description |
+| --- | --- |
+| [mfext](https://github.com/metwork-framework/mfext) | Dependency module which provides plenty of recent opensource softwares |
+| [mfcom](https://github.com/metwork-framework/mfcom) | Dependency module which provides some MetWork Framework specific libraries and tools |
+| [mfserv](https://github.com/metwork-framework/mfserv) | Webservices module |
+| [mfdata](https://github.com/metwork-framework/mfdata) | "Incoming files" processing framework |
+| [mfbase](https://github.com/metwork-framework/mfbase) | "Geospatial ready" storage framework |
+| [mfadmin](https://github.com/metwork-framework/mfadmin) | Monitoring module |
+| [mfsysmon](https://github.com/metwork-framework/mfsysmon) | System monitoring client module |
 
 ## mfext addons
 
-- [mfextaddon_python3_ia](https://github.com/metwork-framework/mfextaddon_python3_ia)
-- [mfextaddon_scientific](https://github.com/metwork-framework/mfextaddon_scientific)  
-- [mfextaddon_mapserver](https://github.com/metwork-framework/mfextaddon_mapserver)  
+| Addon | Description |
+| --- | --- |
+| [mfextaddon_scientific](https://github.com/metwork-framework/mfextaddon_scientific) | mfext addon for scientific libraries and tools |
+| [mfextaddon_python3_ia](https://github.com/metwork-framework/mfextaddon_python3_ia) | mfext addon for deep learning/IA libraries and tools for Python3 |
+| [mfextaddon_mapserver](https://github.com/metwork-framework/mfextaddon_mapserver) | mfext addon which provide [https://mapserver.org](Mapserver software) and libraries around ([mapserverapi](https://github.com/metwork-framework/mapserverapi)) and [mapserverapi_python](https://github.com/metwork-framework/mapserverapi_python)) 
 
 ## build docker images
 
