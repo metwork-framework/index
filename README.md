@@ -67,6 +67,10 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 - [cookiecutter](https://github.com/metwork-framework/cookiecutter)
 - [auto-changelog](https://github.com/metwork-framework/auto-changelog)
 
+## misc tools
+
+- [linux_distributions_dependencies_checker](https://github.com/metwork-framework/linux_distributions_dependencies_checker)
+
 ## repositories specific to MetWork Framework
 
 ### custom addons
