@@ -22,7 +22,8 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 | --- | --- |
 | [mfextaddon_scientific](https://github.com/metwork-framework/mfextaddon_scientific) | mfext addon for scientific libraries and tools |
 | [mfextaddon_python3_ia](https://github.com/metwork-framework/mfextaddon_python3_ia) | mfext addon for deep learning/IA libraries and tools for Python3 |
-| [mfextaddon_mapserver](https://github.com/metwork-framework/mfextaddon_mapserver) | mfext addon which provides [Mapserver software](https://mapserver.org) and libraries around ([mapserverapi](https://github.com/metwork-framework/mapserverapi)) and [mapserverapi_python](https://github.com/metwork-framework/mapserverapi_python)) 
+| [mfextaddon_mapserver](https://github.com/metwork-framework/mfextaddon_mapserver) | mfext addon which provides [Mapserver software](https://mapserver.org) and libraries around ([mapserverapi](https://github.com/metwork-framework/mapserverapi)) and [mapserverapi_python](https://github.com/metwork-framework/mapserverapi_python)) |
+| [mfextaddon_vim](https://github.com/metwork-framework/mfextaddon_vim) | mfext addon which provides an opinionated vim editor (with configuration) |
 
 ## docker build images
 
