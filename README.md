@@ -71,6 +71,7 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 ## misc tools
 
 - [linux_distributions_dependencies_checker](https://github.com/metwork-framework/linux_distributions_dependencies_checker)
+- [linux_distributions_integration_tests](https://github.com/metwork-framework/linux_distributions_integration_tests)
 
 ## repositories specific to MetWork Framework
 
