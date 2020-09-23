@@ -6,23 +6,23 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 
 ## Main modules
 
-| Module | Description |
-| --- | --- |
-| [mfext](https://github.com/metwork-framework/mfext) | Dependency module which provides plenty of recent opensource softwares (you will also find some addons to this module in the following) |
-| [mfserv](https://github.com/metwork-framework/mfserv) | Webservices module |
-| [mfdata](https://github.com/metwork-framework/mfdata) | "Incoming files" processing framework |
-| [mfbase](https://github.com/metwork-framework/mfbase) | "Geospatial ready" storage framework |
-| [mfadmin](https://github.com/metwork-framework/mfadmin) | Monitoring module |
-| [mfsysmon](https://github.com/metwork-framework/mfsysmon) | System monitoring client module |
+| Module | Description | CI (master)
+| --- | --- | --- 
+| [mfext](https://github.com/metwork-framework/mfext) | Dependency module which provides plenty of recent opensource softwares | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/mfext/status.svg)](http://metwork-framework.org:8000/metwork-framework/mfext)
+| [mfserv](https://github.com/metwork-framework/mfserv) | Webservices module | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/mfserv/status.svg)](http://metwork-framework.org:8000/metwork-framework/mfserv)
+| [mfdata](https://github.com/metwork-framework/mfdata) | "Incoming files" processing framework | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/mfdata/status.svg)](http://metwork-framework.org:8000/metwork-framework/mfdata)
+| [mfbase](https://github.com/metwork-framework/mfbase) | "Geospatial ready" storage framework | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/mfbase/status.svg)](http://metwork-framework.org:8000/metwork-framework/mfbase)
+| [mfadmin](https://github.com/metwork-framework/mfadmin) | Monitoring module | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/mfadmin/status.svg)](http://metwork-framework.org:8000/metwork-framework/mfadmin)
+| [mfsysmon](https://github.com/metwork-framework/mfsysmon) | System monitoring client module | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/mfsysmon/status.svg)](http://metwork-framework.org:8000/metwork-framework/mfsysmon)
 
 ## mfext addons
 
-| Addon | Description |
-| --- | --- |
-| [mfextaddon_scientific](https://github.com/metwork-framework/mfextaddon_scientific) | mfext addon for scientific libraries and tools |
-| [mfextaddon_python3_ia](https://github.com/metwork-framework/mfextaddon_python3_ia) | mfext addon for deep learning/IA libraries and tools for Python3 |
-| [mfextaddon_mapserver](https://github.com/metwork-framework/mfextaddon_mapserver) | mfext addon which provides [Mapserver software](https://mapserver.org) and libraries around ([mapserverapi](https://github.com/metwork-framework/mapserverapi)) and [mapserverapi_python](https://github.com/metwork-framework/mapserverapi_python)) |
-| [mfextaddon_vim](https://github.com/metwork-framework/mfextaddon_vim) | mfext addon which provides an opinionated vim editor (with configuration) |
+| Addon | Description | CI (master)
+| --- | --- | --- 
+| [mfextaddon_scientific](https://github.com/metwork-framework/mfextaddon_scientific) | mfext addon for scientific libraries and tools | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/mfextaddon_scientific/status.svg)](http://metwork-framework.org:8000/metwork-framework/mfextaddon_scientific)
+| [mfextaddon_python3_ia](https://github.com/metwork-framework/mfextaddon_python3_ia) | mfext addon for deep learning/IA libraries and tools for Python3 | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/mfextaddon_python3_ia/status.svg)](http://metwork-framework.org:8000/metwork-framework/mfextaddon_python3_ia)
+| [mfextaddon_mapserver](https://github.com/metwork-framework/mfextaddon_mapserver) | mfext addon which provides [Mapserver software](https://mapserver.org) and libraries around ([mapserverapi](https://github.com/metwork-framework/mapserverapi)) and [mapserverapi_python](https://github.com/metwork-framework/mapserverapi_python)) | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/mfextaddon_mapserver/status.svg)](http://metwork-framework.org:8000/metwork-framework/mfextaddon_mapserver)
+| [mfextaddon_vim](https://github.com/metwork-framework/mfextaddon_vim) | mfext addon which provides an opinionated vim editor (with configuration) | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/mfextaddon_vim/status.svg)](http://metwork-framework.org:8000/metwork-framework/mfextaddon_vim)
 
 ## docker build images
 
