@@ -51,12 +51,14 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 - [telegraf-unixsocket-python-client](https://github.com/metwork-framework/telegraf-unixsocket-python-client)
 - [layerapi2](https://github.com/metwork-framework/layerapi2)
 
-## Jinja2 extensions
+## Jinja2 extensions 
 
-- [jinja2_fnmatch_extension](https://github.com/metwork-framework/jinja2_fnmatch_extension)
-- [jinja2_from_json_extension](https://github.com/metwork-framework/jinja2_from_json_extension)
-- [jinja2_shell_extension](https://github.com/metwork-framework/jinja2_shell_extension)
-- [jinja2_getenv_extension](https://github.com/metwork-framework/jinja2_getenv_extension)
+| Repo | Description | CI (master) |
+| --- | --- | --- |
+| [jinja2_fnmatch_extension](https://github.com/metwork-framework/jinja2_fnmatch_extension) | xxx | [![GitHub CI](https://github.com/metwork-framework/jinja2_fnmatch_extension/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/jinja2_fnmatch_extension/actions?query=workflow%3ACI&branch=master) |
+| [jinja2_from_json_extension](https://github.com/metwork-framework/jinja2_from_json_extension) | xxx | [![GitHub CI](https://github.com/metwork-framework/jinja2_from_json_extension/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/jinja2_from_json_extension/actions?query=workflow%3ACI&branch=master) |
+| [jinja2_shell_extension](https://github.com/metwork-framework/jinja2_shell_extension) | xxx | [![GitHub CI](https://github.com/metwork-framework/jinja2_shell_extension/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/jinja2_shell_extension/actions?query=workflow%3ACI&branch=master) |
+| [jinja2_getenv_extension](https://github.com/metwork-framework/jinja2_getenv_extension) | xxx | [![GitHub CI](https://github.com/metwork-framework/jinja2_getenv_extension/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/jinja2_getenv_extension/actions?query=workflow%3ACI&branch=master) |
 
 ## forked (but maintained) repos
 
