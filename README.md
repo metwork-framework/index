@@ -108,7 +108,9 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 
 ### misc
 
-- [index](https://github.com/metwork-framework/index)
-- [external_sources](https://github.com/metwork-framework/external_sources)
-- [docker-envtpl-runimage](https://github.com/metwork-framework/docker-envtpl-runimage)
-- [quickstart](https://github.com/metwork-framework/quickstart) 
+| Repository | Description | CI (master) |
+| --- | --- | --- |
+| [index](https://github.com/metwork-framework/index) | This repository is a just a README to introduce all Metwork Framework GitHub repositories | No CI |
+| [external_sources](https://github.com/metwork-framework/external_sources) | This repository just holds some external sources for Metwork Framework builds | No CI |
+| [docker-envtpl-runimage](https://github.com/metwork-framework/docker-envtpl-runimage) | a docker image with envtpl binary installed | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/docker-envtpl-runimage/status.svg)](http://metwork-framework.org:8000/metwork-framework/docker-envtpl-runimage) |
+| [quickstart](https://github.com/metwork-framework/quickstart) | This repository hosts the MetWork Framework quickstart you can find online at [https://metwork-framework.github.io/quickstart/](https://metwork-framework.github.io/quickstart/) | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/quickstart/status.svg)](http://metwork-framework.org:8000/metwork-framework/quickstart) |
