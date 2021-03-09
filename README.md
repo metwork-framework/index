@@ -102,14 +102,9 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 
 ### mfserv plugins
 
-- [github_organization_dashboard](https://github.com/metwork-framework/github_organization_dashboard)
-- [github_webhook_pr_labelling](https://github.com/metwork-framework/github_webhook_pr_labelling)
-- [generate_changelogs](https://github.com/metwork-framework/generate_changelogs)
-- [github_copy_integration_branch](https://github.com/metwork-framework/github_copy_integration_branch)
-- [github_force_common_files](https://github.com/metwork-framework/github_force_common_files)
-- [github_webhook_issue_labelling](https://github.com/metwork-framework/github_webhook_issue_labelling)
-- [github_webhook_no_pullrequest_on_master](https://github.com/metwork-framework/github_webhook_no_pullrequest_on_master)
-- [public-website](https://github.com/metwork-framework/public-website)
+| Repository | Description | CI (master) |
+| --- | --- | --- |
+| [public-website](https://github.com/metwork-framework/public-website) | This repository holds the public website sources for metwork-framework.org | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/public-website/status.svg)](http://metwork-framework.org:8000/metwork-framework/public-website) |
 
 ### misc
 
