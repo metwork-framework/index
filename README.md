@@ -35,7 +35,12 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 | [docker-mfxxx-centos7-buildimage](https://github.com/metwork-framework/docker-mfxxx-centos7-buildimage) | the docker image used by CI to build mfxxx modules (not mfext) module on centos7 |
 | [docker-mfxxx-centos6-testimage](https://github.com/metwork-framework/docker-mfxxx-centos6-testimage) | the docker image used by CI to run integration tests for mfxxx modules (not mfext) module on centos6 |
 | [docker-mfxxx-centos7-testimage](https://github.com/metwork-framework/docker-mfxxx-centos7-testimage) | the docker image used by CI to un integration tests for mfxxx modules (not mfext) module on centos7 |
-| [docker-mfservplugins-centos7-buildimage](https://github.com/metwork-framework/docker-mfservplugins-centos7-buildimage) | a docker image used by CI to build some custom mfserv plugins |
+| [docker-mfservplugins-centos7-buildimage](https://github.com/metwork-framework/docker-mfservplugins-centos7-buildimage) | a docker image to use to build some custom mfserv plugins on centos7 |
+| [docker-mfservplugins-centos8-buildimage](https://github.com/metwork-framework/docker-mfservplugins-centos8-buildimage) | a docker image to use to build some custom mfserv plugins on centos8 |
+| [docker-mfdataplugins-centos7-buildimage](https://github.com/metwork-framework/docker-mfdataplugins-centos7-buildimage) | a docker image to use to build some custom mfdata plugins on centos7 |
+| [docker-mfdataplugins-centos8-buildimage](https://github.com/metwork-framework/docker-mfdataplugins-centos8-buildimage) | a docker image to use to build some custom mfdata plugins on centos8 |
+| [docker-mfbaseplugins-centos7-buildimage](https://github.com/metwork-framework/docker-mfbaseplugins-centos7-buildimage) | a docker image to use to build some custom mfbase plugins on centos7 |
+| [docker-mfbaseplugins-centos8-buildimage](https://github.com/metwork-framework/docker-mfbaseplugins-centos8-buildimage) | a docker image to use to build some custom mfbase plugins on centos8 |
 | [docker-portable-envtpl-buildimage](https://github.com/metwork-framework/docker-portable-envtpl-buildimage) | a docker image to build a portable [https://github.com/metwork-framework/envtpl](envtpl) binary |
 | [docker-mfextaddon_python3_ia-centos7-buildimage](https://github.com/metwork-framework/docker-mfextaddon_python3_ia-centos7-buildimage) | a docker image to build [https://github.com/metwork-framework/mfextaddon_python3_ia](python3_ia mfext addon) on centos7 |
 
