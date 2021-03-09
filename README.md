@@ -101,6 +101,7 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 | --- | --- | --- |
 | [linux_distributions_dependencies_checker](https://github.com/metwork-framework/linux_distributions_dependencies_checker) | a repository to check with docker the availability of some (system) libraries on plenty of Linux distributions | [![GitHub CI](https://github.com/metwork-framework/linux_distributions_dependencies_checker/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/linux_distributions_dependencies_checker/actions?query=workflow%3ACI+branch%3Amaster) |
 | [linux_distributions_integration_tests](https://github.com/metwork-framework/linux_distributions_integration_tests) | a tool to run some metwork integration tests on various linux distributions | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/linux_distributions_integration_tests/status.svg)](http://metwork-framework.org:8000/metwork-framework/linux_distributions_integration_tests) |
+| [docker-centos7-opinionated](https://github.com/metwork-framework/docker-centos7-opinionated) | An opinionated centos7 docker image to be used as a base| [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/docker-centos7-opinionated/status.svg)](http://metwork-framework.org:8000/metwork-framework/docker-centos7-opinionated) |
 
 ## repositories specific to MetWork Framework
 
