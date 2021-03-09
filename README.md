@@ -94,9 +94,11 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 
 ### custom addons
 
-- [cookiecutter_hooks](https://github.com/metwork-framework/cookiecutter_hooks)
-- [docker-drone-downstream-specific-image](https://github.com/metwork-framework/docker-drone-downstream-specific-image)
-- [docker-drone-docker-specific-image](https://github.com/metwork-framework/docker-drone-docker-specific-image)
+| Repository | Description | CI (master) |
+| --- | --- | --- |
+| [cookiecutter_hooks](https://github.com/metwork-framework/cookiecutter_hooks) | This is a custom cookiecutter hooks package used in Metwork Framework | [![GitHub CI](https://github.com/metwork-framework/cookiecutter_hooks/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/cookiecutter_hooks/actions?query=workflow%3ACI+branch%3Amaster) |
+| [docker-drone-downstream-specific-image](https://github.com/metwork-framework/docker-drone-downstream-specific-image) | This is a custom drone "downstream" plugin for our use case and our CI hardware | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/docker-drone-downstream-specific-image/status.svg)](http://metwork-framework.org:8000/metwork-framework/docker-drone-downstream-specific-image) |
+| [docker-drone-docker-specific-image](https://github.com/metwork-framework/docker-drone-docker-specific-image) | This is a custom drone "docker" plugin for our use case and our CI hardware | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/docker-drone-docker-specific-image/status.svg)](http://metwork-framework.org:8000/metwork-framework/docker-drone-docker-specific-image) |
 
 ### mfserv plugins
 
