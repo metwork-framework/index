@@ -53,17 +53,16 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 | [mfutil_c](https://github.com/metwork-framework/mfutil_c) | a very low level C libraries/utily for metwork/framework | [![GitHub CI](https://github.com/metwork-framework/mfutil_c/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/mfutil_c/actions?query=workflow%3ACI+branch%3Amaster) |
 | [mfutil_lua](https://github.com/metwork-framework/mfutil_lua) | xxx | FIXME |
 | [mfutil](https://github.com/metwork-framework/mfutil) | Misc python functions and classes developed for the metwork framework (but useful in other contexts) | [![GitHub CI](https://github.com/metwork-framework/mfutil/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/mfutil/actions?query=workflow%3ACI+branch%3Amaster) |
-
-- [mapserverapi](https://github.com/metwork-framework/mapserverapi)
-- [mapserverapi_python](https://github.com/metwork-framework/mapserverapi_python)
-- [jsonlog2elasticsearch](https://github.com/metwork-framework/jsonlog2elasticsearch) => FIXME: to replace with jsonsyslog2elasticsearch
-- [circus_autorestart_plugin](https://github.com/metwork-framework/circus_autorestart_plugin)
-- [aiohttp_github_helpers](https://github.com/metwork-framework/aiohttp_github_helpers)
-- [cronwrapper](https://github.com/metwork-framework/cronwrapper)
-- [telegraf-unixsocket-python-client](https://github.com/metwork-framework/telegraf-unixsocket-python-client)
-- [layerapi2](https://github.com/metwork-framework/layerapi2)
-- mflog (FIXME)
-- opininonated_configparser (FIXME)
+| [mapserverapi](https://github.com/metwork-framework/mapserverapi) | a tiny C library to invoke mapserver engine as a library | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/mapserverapi/status.svg?branch=master)](http://metwork-framework.org:8000/metwork-framework/mapserverapi) |
+| [mapserverapi_python](https://github.com/metwork-framework/mapserverapi_python)
+| [jsonlog2elasticsearch](https://github.com/metwork-framework/jsonlog2elasticsearch) => FIXME: to replace with jsonsyslog2elasticsearch
+| [circus_autorestart_plugin](https://github.com/metwork-framework/circus_autorestart_plugin)
+| [aiohttp_github_helpers](https://github.com/metwork-framework/aiohttp_github_helpers)
+| [cronwrapper](https://github.com/metwork-framework/cronwrapper)
+| [telegraf-unixsocket-python-client](https://github.com/metwork-framework/telegraf-unixsocket-python-client)
+| [layerapi2](https://github.com/metwork-framework/layerapi2)
+| mflog (FIXME)
+| opininonated_configparser (FIXME)
 
 ## Jinja2 extensions 
 
