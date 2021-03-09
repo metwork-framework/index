@@ -75,11 +75,13 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 
 ## forked (but maintained) repos
 
-- [deploycron](https://github.com/metwork-framework/deploycron)
-- [envtpl](https://github.com/metwork-framework/envtpl)
-- [lua-resty-statsd](https://github.com/metwork-framework/lua-resty-statsd)
-- [cookiecutter](https://github.com/metwork-framework/cookiecutter)
-- [auto-changelog](https://github.com/metwork-framework/auto-changelog)
+| Repository | Description | CI (master) |
+| --- | --- | --- |
+| [deploycron](https://github.com/metwork-framework/deploycron) | A small tool for deploying crontab into your system | [![Travis](https://img.shields.io/travis/Hawker65/deploycron.svg)](https://travis-ci.org/github/Hawker65/deploycron) |
+| [envtpl](https://github.com/metwork-framework/envtpl) | a small tool to render [jinja2](jinja.pocoo.org) templates on the command line with shell environment variables | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/envtpl/status.svg)](http://metwork-framework.org:8000/metwork-framework/envtpl) |
+| [lua-resty-statsd](https://github.com/metwork-framework/lua-resty-statsd)
+| [cookiecutter](https://github.com/metwork-framework/cookiecutter)
+| [auto-changelog](https://github.com/metwork-framework/auto-changelog)
 
 ## misc tools
 
