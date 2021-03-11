@@ -89,7 +89,7 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 
 | Repository | Description | CI (master) |
 | --- | --- | --- |
-| [deploycron](https://github.com/metwork-framework/deploycron) | A small tool for deploying crontab into your system | FIXME [![Travis](https://img.shields.io/travis/Hawker65/deploycron.svg)](https://travis-ci.org/github/Hawker65/deploycron) |
+| [deploycron](https://github.com/metwork-framework/deploycron) | A small tool for deploying crontab into your system | [![GitHub CI](https://github.com/metwork-framework/deploycron/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/deploycron/actions?query=workflow%3ACI+branch%3Amaster) |
 | [envtpl](https://github.com/metwork-framework/envtpl) | a small tool to render [jinja2](jinja.pocoo.org) templates on the command line with shell environment variables | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/envtpl/status.svg)](http://metwork-framework.org:8000/metwork-framework/envtpl) |
 | [lua-resty-statsd](https://github.com/metwork-framework/lua-resty-statsd) | This is a fork of [lua-resty-statsd](http://github.com/bakins/lua-resty-statsd) | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/lua-resty-statsd/status.svg)](http://metwork-framework.org:8000/metwork-framework/lua-resty-statsd) |
 | [cookiecutter](https://github.com/metwork-framework/cookiecutter) | A command-line utility that creates projects from cookiecutters (project templates) | FIXME |
