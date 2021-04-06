@@ -65,7 +65,7 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 | Repository | Description | CI (master) |
 | --- | --- | --- |
 | [mfutil_c](https://github.com/metwork-framework/mfutil_c) | a very low level C libraries/utily for metwork/framework | [![GitHub CI](https://github.com/metwork-framework/mfutil_c/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/mfutil_c/actions?query=workflow%3ACI+branch%3Amaster) |
-| [mfutil_lua](https://github.com/metwork-framework/mfutil_lua) | DO NOT USE | FIXME |
+| [mfutil_lua](https://github.com/metwork-framework/mfutil_lua) | Some utility functions for lua/openresty | no CI |
 | [mfutil](https://github.com/metwork-framework/mfutil) | Misc python functions and classes developed for the metwork framework (but useful in other contexts) | [![GitHub CI](https://github.com/metwork-framework/mfutil/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/mfutil/actions?query=workflow%3ACI+branch%3Amaster) |
 | [mapserverapi](https://github.com/metwork-framework/mapserverapi) | a tiny C library to invoke [mapserver](https://www.mapserver.org/) engine as a library | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/mapserverapi/status.svg?branch=master)](http://metwork-framework.org:8000/metwork-framework/mapserverapi) |
 | [mapserverapi_python](https://github.com/metwork-framework/mapserverapi_python) | a tiny python library to invoke [mapserver](https://www.mapserver.org/) engine as a simple library | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/mapserverapi_python/status.svg?branch=master)](http://metwork-framework.org:8000/metwork-framework/mapserverapi_python) |
