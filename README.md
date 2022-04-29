@@ -99,7 +99,7 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 | --- | --- | --- |
 | [deploycron](https://github.com/metwork-framework/deploycron) | A small tool for deploying crontab into your system | [![GitHub CI](https://github.com/metwork-framework/deploycron/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/deploycron/actions?query=workflow%3ACI+branch%3Amaster) |
 | [envtpl](https://github.com/metwork-framework/envtpl) | A small tool for deploying crontab into your system | [![GitHub CI](https://github.com/metwork-framework/envtpl/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/envtpl/actions?query=workflow%3ACI+branch%3Amaster) |
-| [lua-resty-statsd](https://github.com/metwork-framework/lua-resty-statsd) | This is a fork of [lua-resty-statsd](http://github.com/bakins/lua-resty-statsd) | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/lua-resty-statsd/status.svg)](http://metwork-framework.org:8000/metwork-framework/lua-resty-statsd) |
+| [lua-resty-statsd](https://github.com/metwork-framework/lua-resty-statsd) | A small tool for deploying crontab into your system | [![GitHub CI](https://github.com/metwork-framework/lua-resty-statsd/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/lua-resty-statsd/actions?query=workflow%3ACI+branch%3Amaster) |
 | [cookiecutter](https://github.com/metwork-framework/cookiecutter) | A command-line utility that creates projects from cookiecutters (project templates) | [![GitHub CI](https://github.com/metwork-framework/cookiecutter/workflows/CI/badge.svg?branch=metwork)](https://github.com/metwork-framework/cookiecutter/actions?query=workflow%3ACI+branch%3Ametwork) |
 
 ## misc tools
