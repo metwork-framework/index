@@ -124,7 +124,7 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 
 | Repository | Description | CI (master) |
 | --- | --- | --- |
-| [public-website](https://github.com/metwork-framework/public-website) | This repository holds the public website sources for metwork-framework.org | [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/public-website/status.svg)](http://metwork-framework.org:8000/metwork-framework/public-website) |
+| [public-website](https://github.com/metwork-framework/public-website) | A small tool for deploying crontab into your system | [![GitHub CI](https://github.com/metwork-framework/public-website/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/public-website/actions?query=workflow%3ACI+branch%3Amaster) |
 
 ### misc
 
