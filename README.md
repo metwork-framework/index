@@ -106,7 +106,7 @@ This repository is a just a README to introduce all [Metwork Framework GitHub re
 
 | Repository | Description | CI (master) |
 | --- | --- | --- |
-| [docker-centos7-opinionated](https://github.com/metwork-framework/docker-centos7-opinionated) | An opinionated centos7 docker image to be used as a base| [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/docker-centos7-opinionated/status.svg)](http://metwork-framework.org:8000/metwork-framework/docker-centos7-opinionated) |
+| [docker-centos7-opinionated](https://github.com/metwork-framework/docker-centos7-opinionated) | An opinionated centos7 docker image to be used as a base | [![GitHub CI](https://github.com/metwork-framework/docker-centos7-opinionated/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/docker-centos7-opinionated/actions?query=workflow%3ACI+branch%3Amaster) |
 | [docker-centos6](https://github.com/metwork-framework/docker-centos6) | Just a basic centos6 docker image with fixed yum default configuration (broken after centos6 EOL| [![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/docker-centos6/status.svg)](http://metwork-framework.org:8000/metwork-framework/docker-centos6) |
 
 ## repositories specific to MetWork Framework
